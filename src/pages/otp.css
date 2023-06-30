@@ -1,0 +1,92 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    /* height: 500px; */
+    width: 100vw;
+   /* background-image: url('../../public/assets/images/covers/cover_1.jpg'); */
+  }
+  body{
+    background-image: url('../../public/assets/images/covers/cover_19.jpg');
+    background-size: cover;
+    background-position: center;
+     height: 500px;
+     width: 100vw;
+    background-color: black;
+  }
+  
+  /* .otp {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-align: center;
+  } */
+/*   
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .validation-image {
+    width: 100px;
+    height: 100px;
+  } */
+  /* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw; */
+    /* background-image: url('../../public/assets/images/covers/cover_1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; */
+  /* } */
+  /* body{
+    background-image: url('../../public/assets/images/covers/cover_1.jpg');
+    background-size: cover; /* Added to ensure the image covers the entire container */
+   /* Added to center the image within the container */
+    /* color: #fff; */
+  
+  
+  
+  
+  .otp-card {
+    width: 400px;
+    background-color: #f3e5e5; 
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px black;
+    margin-left: 90px;
+  
+  }
+  
+  .logo {
+    margin : 20px auto;
+   
+    display: block;
+  }
+  
+  .otp-input {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .secondary {
+    margin-left: 10px;
+  }
+ .OTP{
+ margin-top: 100px;
+  }
